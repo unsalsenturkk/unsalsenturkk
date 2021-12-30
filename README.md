@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻  I'm currently working on a great project :wink:.
 - 🌱  I’m currently learning Go and Vue. 
-- 🌱  I'm currently bootcamp student at <img alt="ICO" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/modanisa.ico" /> Modanisa via <img height="16px" width="16px" alt="ICO" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/git.patika.png" /> Patika.dev.
+- 🌱  I'm currently bootcamp student at <img alt="ICO" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/modanisa.ico" /> Modanisa via <img height="16px" width="16px" alt="ICO" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/patika.png" /> Patika.dev.
 - 💬  Ask me about anything, I am happy to help.
 - 📫  How to reach me: unsalsenturkk@gmail.com.
 
