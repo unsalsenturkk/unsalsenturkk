@@ -4,7 +4,7 @@
 </p>
 
 
-<img align="right" height="150rem" alt="GIF" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/code.gif" />
+<img align="right" width="20%" height="auto" alt="GIF" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/code.gif" />
 
 **Talking about Personal Stuffs:**
 
