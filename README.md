@@ -1,4 +1,4 @@
-<h2 align="center">Hi there <img src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/wave.gif" width="25px"> , I'm Ünsal</h2>
+<h2 align="center">Hi there <img src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/wave.gif" width="25px"> , I'm Ünsal Şentürk</h2>
 <p align="center">
   <a href="https://github.com/unsalsenturkk/">LinkedIN</a> 
 </p>
