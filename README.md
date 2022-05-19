@@ -3,9 +3,6 @@
   <a href="https://github.com/unsalsenturkk/">LinkedIN</a> 
 </p>
 
-
-<img align="right" width="20%" height="auto" alt="GIF" src="https://github.com/unsalsenturkk/unsalsenturkk/blob/main/media/code.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I'm currently working on a great project :wink:.
